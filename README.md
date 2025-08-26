@@ -1,8 +1,11 @@
 # Front-React + Vite
 
+-Usuario admin- email: nuevamente1@gmail.com contraseña: a123456
+
+
 Este repositorio contiene el frontend de una aplicación CRUD de productos y usuarios, desarrollado con **React** y **Vite**.
 
-> ⚠️ Para que este proyecto funcione correctamente, asegúrate de tener el backend corriendo. Puedes encontrar el repositorio del backend acá: [https://github.com/milesivit/back-nodejs](https://github.com/milesivit/back-nodejs)
+> ⚠️ Para que este proyecto funcione correctamente, asegúrate de tener el backend corriendo. Puedes encontrar el repositorio del backend acá: [https://github.com/avelazquez777/API-REST-DB-nodejs.git)
 
 ## Requisitos
 
@@ -46,8 +49,8 @@ Revisa el archivo package.json para ver las dependencias usadas.
 {
     "id": 1,
     "nombre": "Milena",
-    "contrasenia": "milena123",
     "email": "mile@gmail.com",
     "edad": 20
+    "rol": cliente
 }
 ```
